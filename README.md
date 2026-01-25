@@ -12,4 +12,6 @@ F3 - Block/Unblock OUT traffic for selected IP
 
 If a cheater joins your session, simply press F1.
 
-If you join a session where a cheater is already playing, press F2, wait 5 seconds, and then press F2 again. Then, press F3, and wait 5 seconds, and then press F3 again. After all this, press F1. You'll be kicked, but the cheater will also be kicked, and the session may break. After this, immediately start a new session search, and all players from the broken session will likely connect to you. While the cheater's IP range block is active, the cheater will not be able to play in your sessions.
+
+This doesn't always work:
+> If you join a session where a cheater is already playing, press **F2**, wait 5 seconds, and then press **F2** again. Then, press **F3**, and wait 5 seconds, and then press **F3** again. After all this, press **F1**. You'll be kicked, but the cheater will also be kicked, and the session may break. After this, immediately start a new session search, and all players from the broken session will likely connect to you. While the cheater's IP range block is active, the cheater will not be able to play in your sessions.
