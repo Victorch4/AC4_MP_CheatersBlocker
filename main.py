@@ -456,7 +456,7 @@ class SoundManager:
                 # Use QSoundEffect for playback
                 sound_effect = QSoundEffect()
                 sound_effect.setSource(QUrl.fromLocalFile(os.path.abspath(sound_path)))
-                sound_effect.setVolume(0.5)
+                sound_effect.setVolume(1.0)
                 sound_effect.play()
                 
                 # Store reference so object isn't immediately deleted
