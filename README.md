@@ -10,7 +10,7 @@ F2 - Block/Unblock IN traffic for selected IP
 F3 - Block/Unblock OUT traffic for selected IP
 
 
-If a cheater joins your session, simply press F1.
+### If a cheater joins your session, simply press F1.
 
 
 This doesn't always work:
